@@ -41,9 +41,3 @@
           4-1. spring.jpa.hibernate.ddl-auto 값을 create로 변경 후  애플리케이션 구동.
 
           4-2. 구동 후 validation으로 변경.
-=======
-**프로젝트를 실행할 시 필요 세팅 **
-- application.properties에서 mysql 비밀번호 PC에 맞게 변경.
-     - c 드라이브 안에 별도 shop 폴더 생성.
-     - 프로젝트에 있는 item폴더(이미지 소스)를 shop으로 이동.
->>>>>>> 7c4f336e443b9e8ad9979cc4c5dbb1e8886aea8f
