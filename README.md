@@ -1,3 +1,4 @@
+개인 블로그 주소 : https://blog.naver.com/yhs5958_2/223218925977
 # Shop_Project
 
 ⊙스프링 부트 쇼핑몰 기능 애플리케이션 제작.
