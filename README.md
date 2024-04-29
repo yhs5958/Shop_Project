@@ -35,6 +35,7 @@
 
      4. application.properties에서 mysql 비밀번호 PC에 맞게 변경.
 
-          4-1. spring.jpa.hibernate.ddl-auto 값을 create로 변경 후  애플리케이션 구동.
+          4-1. 최초 구동 시 spring.jpa.hibernate.ddl-auto 값을 create로 두고  애플리케이션 구동.
 
-          4-2. 구동 후 validation으로 변경.
+          4-2. 구동 후 validate으로 변경 후 구동.
+          4-3. 재시작 후 
